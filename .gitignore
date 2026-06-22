@@ -3,7 +3,7 @@
 **/__Previews/
 
 # History Folders
-**/History/*
+History/*
 
 # Project Logs
 Project Logs*/
@@ -26,3 +26,6 @@ Project Outputs*/
 
 # Folder to save each comparison results
 CompareHistory/
+
+# Others
+references/
